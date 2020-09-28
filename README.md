@@ -1,1 +1,1 @@
-# Website using HtML and CSS
+# Website using HTML and CSS
